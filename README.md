@@ -1,6 +1,7 @@
 ## Getting Started
 
 Welcome to the VS Code Stats. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Stats is an experimental class to calculate some basic statistics for two arrays, such as standard deviation, mean, correlation between the two sets and least squares regression best fit.
 
 ## Folder Structure
 
